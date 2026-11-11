@@ -1,0 +1,8 @@
+{
+  "skill": "marketing-strategy",
+  "test_cases": [
+    {"name": "basic_strategy", "input": "how should I market my new SaaS product", "assertions": ["defines target customer", "recommends specific channels", "includes action plan"]},
+    {"name": "low_budget", "input": "marketing strategy with almost no money", "assertions": ["focuses on free/low-cost channels"]},
+    {"name": "local_business", "input": "marketing plan for a local coffee shop", "assertions": ["includes local tactics"]}
+  ]
+}

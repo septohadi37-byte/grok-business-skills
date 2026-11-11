@@ -1,0 +1,10 @@
+{
+  "skill": "business-ideation",
+  "test_cases": [
+    {"input": "give me business ideas", "should_trigger": true},
+    {"input": "brainstorm startup ideas for me", "should_trigger": true},
+    {"input": "what side hustle should I start", "should_trigger": true},
+    {"input": "write a python script", "should_trigger": false},
+    {"input": "create a marketing plan", "should_trigger": false}
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "skill": "business-ideation",
+  "test_cases": [
+    {"name": "general_ideas", "input": "give me 5 business ideas", "assertions": ["produces multiple ideas", "includes target customer", "scores or ranks ideas"]},
+    {"name": "constrained", "input": "business ideas under $500 that I can start from home", "assertions": ["respects budget constraint", "focuses on low capital"]},
+    {"name": "industry_specific", "input": "startup ideas in the fitness space", "assertions": ["ideas are relevant to fitness"]}
+  ]
+}
