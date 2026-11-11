@@ -1,0 +1,10 @@
+{
+  "skill": "startup-validation",
+  "test_cases": [
+    {"input": "validate this business idea", "should_trigger": true},
+    {"input": "how to test if people will pay for this", "should_trigger": true},
+    {"input": "customer discovery for my startup", "should_trigger": true},
+    {"input": "give me business ideas", "should_trigger": false},
+    {"input": "marketing plan", "should_trigger": false}
+  ]
+}

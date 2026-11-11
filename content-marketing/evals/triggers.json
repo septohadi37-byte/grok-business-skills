@@ -1,0 +1,10 @@
+{
+  "skill": "content-marketing",
+  "test_cases": [
+    {"input": "content ideas for my business", "should_trigger": true},
+    {"input": "make a content calendar", "should_trigger": true},
+    {"input": "what should I post on social media", "should_trigger": true},
+    {"input": "marketing strategy", "should_trigger": false},
+    {"input": "business ideas", "should_trigger": false}
+  ]
+}

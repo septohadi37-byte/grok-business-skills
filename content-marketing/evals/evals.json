@@ -1,0 +1,8 @@
+{
+  "skill": "content-marketing",
+  "test_cases": [
+    {"name": "ideas", "input": "give me content ideas for my fitness brand", "assertions": ["produces content pillars", "specific ideas", "formats"]},
+    {"name": "calendar", "input": "create a 30 day content calendar for Instagram", "assertions": ["calendar structure", "platform relevant"]},
+    {"name": "strategy", "input": "content strategy for a new SaaS", "assertions": ["aligns with business goal"]}
+  ]
+}

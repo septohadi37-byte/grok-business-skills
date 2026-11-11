@@ -1,0 +1,8 @@
+{
+  "skill": "startup-validation",
+  "test_cases": [
+    {"name": "validate_idea", "input": "how do I validate my app idea", "assertions": ["identifies riskiest assumption", "suggests specific test", "success criteria"]},
+    {"name": "interview_script", "input": "give me customer interview questions", "assertions": ["provides useful questions"]},
+    {"name": "landing_page", "input": "should I build a landing page to test demand", "assertions": ["gives concrete advice"]}
+  ]
+}
